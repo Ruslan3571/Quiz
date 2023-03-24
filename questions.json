@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which restaurant mascot is a clown?",
+    "choice1": "Whataburger",
+    "choice2": "Burger King",
+    "choice3": "Sonic",
+    "choice4": "McDonald`s",
+    "answer": 4
+  },
+  {
+    "question": "Which country, not including Japan, has the most people of japanese decent?",
+    "choice1": "Brazil",
+    "choice2": "South Korea",
+    "choice3": "United States of America",
+    "choice4": "China",
+    "answer": 1
+  },
+  {
+    "question": "WWhen someone is cowardly, they are said to have what color belly?",
+    "choice1": "Green",
+    "choice2": "Red",
+    "choice3": "Yellow",
+    "choice4": "Blue",
+    "answer": 3
+  }
+]
