@@ -1,1 +1,1 @@
-# Quiz
+# Quick Quiz
